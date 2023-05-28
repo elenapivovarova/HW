@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\zadanie1\\zadanie1.csproj": {}
+    "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\hw\\zadanie1\\zadanie1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\zadanie1\\zadanie1.csproj": {
+    "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\hw\\zadanie1\\zadanie1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\zadanie1\\zadanie1.csproj",
+        "projectUniqueName": "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\hw\\zadanie1\\zadanie1.csproj",
         "projectName": "zadanie1",
-        "projectPath": "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\zadanie1\\zadanie1.csproj",
+        "projectPath": "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\hw\\zadanie1\\zadanie1.csproj",
         "packagesPath": "C:\\Users\\cccp3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\zadanie1\\obj\\",
+        "outputPath": "C:\\Users\\cccp3\\Desktop\\знакомство с програмами\\hw\\zadanie1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cccp3\\AppData\\Roaming\\NuGet\\NuGet.Config"
